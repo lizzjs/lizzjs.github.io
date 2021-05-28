@@ -1,13 +1,13 @@
 # Site settings
 title: Lizzette Salmeron
-description: A github page displaying my recent work, internships, and journey as a PhD student at The City College of New York
+description: Github Page
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lizzette Salmeron
-user_description: Idk
-user_title: Hello
+username: Lizzjs
+user_description: A github page displaying my recent work, internships, and journey as a PhD student at The City College of New York
+user_title: Hi, my name is Lizzette Salmeron. Welcome to my Github page
 email: lizzettejsalmeron@gmail.com
 # twitter_username: lorem_ipsum
 github_username:  Lizzjs
